@@ -35,6 +35,6 @@ In order to run the application, only python3 is needed. print_tax_receipt.py is
 python3 print_tax_receipt.py
 
 
-#Assumptions
+# Assumptions
 
 Assuming the goods are of types chocolates, pills and books for these particular shopping baskets.
