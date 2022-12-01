@@ -54,7 +54,7 @@ def print_receipt(inp):
 
 def round_tax(amount) :
     # Function for the sales tax rounding rules
-    return math.ceil(round(amount,2) * 20) / 20
+    return math.ceil(round(amount,2) * 20) / 20 # using 20 because of rounding up to 0.05
 
 
 if __name__ == "__main__":
